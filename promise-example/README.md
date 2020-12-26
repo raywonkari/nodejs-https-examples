@@ -1,0 +1,1 @@
+Simply run `node index.js` to see the output.
